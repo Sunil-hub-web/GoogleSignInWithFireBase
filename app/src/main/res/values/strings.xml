@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleSignInWithFireBase</string>
+
+    <string name="facebook_app_id">1194587277993201</string>
+    <string name="fb_login_protocol_scheme">fb1194587277993201</string>
+    <string name="facebook_client_token">9a3937d9e51c114af78f59b78990de37</string>
+
+</resources>

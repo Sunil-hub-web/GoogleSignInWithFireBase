@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379136286535",
+    "project_id": "signinwithfirebase-fe270",
+    "storage_bucket": "signinwithfirebase-fe270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379136286535:android:73f5f996509ee0eab77662",
+        "android_client_info": {
+          "package_name": "com.example.googlesigninwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379136286535-jg9qfree0ce44p87eu84b5q29hnf7bob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL87Q0IEqZbVjRqZyvQL00C4VWK_QnMxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379136286535-jg9qfree0ce44p87eu84b5q29hnf7bob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
